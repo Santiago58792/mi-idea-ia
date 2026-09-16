@@ -1,4 +1,5 @@
 # Riego inteligente para agricultores de Enguera
+
 ## Resumen 
 
 Mi idea es crear una IA para ayudar a los agricultores de Enguera y la zona de Valencia a optimizar el riego y detectar enfermedades en olivos y viñas. Usa fotos de las hojas y datos del tiempo para avisar cuando regar.
