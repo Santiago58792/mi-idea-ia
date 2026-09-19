@@ -9,4 +9,4 @@ El sistema usará fotos del tiempo para avisar cuándo regar y si una planta est
 Vivo en Enguera, es una zona agrícola donde el agua es muy importante y muchos vecinos tienen campos pequeños y no tienen tecnología cara.
 
 ## Funcionamiento
-El usuario hace una foto a la hoja, la app la analiza con visión por computador y la combina con la previsión del tiempo para dar una recomendación simple: regar, no regar, o revisar la planta.
+El usuario hace una foto a la hoja, la app la analiza con visión por computador y la combina con la previsión del tiempo para dar una recomendación simple: regar, no regar,o revisar la planta.
